@@ -1,0 +1,16 @@
+language: python
+
+python:
+  - 3.6
+
+before_install:
+  -
+
+install:
+  - make dev-setup
+
+script:
+  - make test
+
+after_success:
+  - codecov
