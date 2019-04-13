@@ -1,5 +1,5 @@
 api:
-  timeout: 30
+  timeout: 9
 
 aws:
   environment: test
