@@ -1,6 +1,12 @@
 # Classifier
 
 > Python machine learning: classifier
+> Deep learning model to classify objects, animals.
+
+> </br> eg. cat vs noncat. <br/>
+
+> This project is created to train and test models for computer vision practice.
+
 
 [![Code Coverage](https://codecov.io/gh/py-ml/classifier/branch/master/graph/badge.svg)](https://codecov.io/gh/py-ml/classifier)
 [![Build Status](https://travis-ci.org/py-ml/classifier.svg?branch=master)](https://travis-ci.org/py-ml/classifier)
